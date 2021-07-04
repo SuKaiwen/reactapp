@@ -1,1 +1,1 @@
-React application featuring multiple minigames such as connect 4.
+React application featuring multiple minigames including connect 4, tic-tac-toe and a calculator.
